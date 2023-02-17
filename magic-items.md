@@ -1951,7 +1951,7 @@ If you blow the horn without meeting its requirement, the summoned berserkers at
 
 ### Horn of Valhalla (Brass)
 
-*Wondrous item, rare
+*Wondrous item, rare*
 
 You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
 
