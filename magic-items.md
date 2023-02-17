@@ -14,6 +14,24 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 
 You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
 
+### Ammunition, +1
+
+*Weapon (any ammunition), uncommon*
+
+You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
+
+### Ammunition, +2
+
+*Weapon (any ammunition), rare*
+
+You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
+
+### Ammunition, +3
+
+*Weapon (any ammunition), very rare*
+
+You have a bonus to attack and damage rolls made with this piece of magic ammunition. The bonus is determined by the rarity of the ammunition. Once it hits a target, the ammunition is no longer magical.
+
 ### Amulet of Health
 
 *Wondrous item, rare (requires [attunement](#section-attunement))*
@@ -135,6 +153,24 @@ A creature in the compartment can use an action to move as many as two of the ap
 ### Armor, +1, +2, or +3
 
 *Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)*
+
+You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
+
+### Armor, +1
+
+*Armor (light, medium, or heavy), rare*
+
+You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
+
+### Armor, +2
+
+*Armor (light, medium, or heavy), very rare*
+
+You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
+
+### Armor, +3
+
+*Armor (light, medium, or heavy), legendary*
 
 You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
 
@@ -3893,9 +3929,45 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
 
+### Wand of the War Mage, +1
+
+*Wand, uncommon (requires [attunement](#section-attunement) by a spellcaster)*
+
+While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
+
+### Wand of the War Mage, +2
+
+*Wand, rare (requires [attunement](#section-attunement) by a spellcaster)*
+
+While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
+
+### Wand of the War Mage, +3
+
+*Wand, very rare (requires [attunement](#section-attunement) by a spellcaster)*
+
+While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
+
 ### Weapon, +1, +2, or +3
 
 *Weapon (any), uncommon (+1), rare (+2), or very rare (+3)*
+
+You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
+
+### Weapon, +1
+
+*Weapon (any), uncommon*
+
+You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
+
+### Weapon, +2
+
+*Weapon (any), rare*
+
+You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
+
+### Weapon, +3
+
+*Weapon (any), very rare*
 
 You have a bonus to attack and damage rolls made with this magic weapon. The bonus is determined by the weapon's rarity.
 
